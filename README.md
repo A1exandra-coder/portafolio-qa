@@ -3,7 +3,7 @@
 
 ## QA Tester Junior
 
-Profesional en Instrumentación Quirúrgica en transición hacia Quality Assurance (QA).
+Profesional en Instrumentación Quirúrgica en transición hacia QA Tester (QA).
 
 ### Sobre mí
 

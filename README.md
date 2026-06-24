@@ -1,4 +1,5 @@
 # portafolio-qa
+![Foto Alexandra](ChatGPT%20Image%2022%20jun%202026,%2010_45_00.png)
 # Alexandra Muñoz
 
 ## QA Tester Junior

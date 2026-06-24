@@ -22,8 +22,23 @@ Correo: kenty2008@gmail.com
 LinkedIn: tu enlace
 
 ### Proyectos
+## Proyecto Sprint 1
 
+Diseño y documentación de casos de prueba para validar funcionalidades del sistema.
+
+📄 Evidencia:
+[Ver matriz Sprint 1](Juan%20Pérez,%201.er%20grupo%20-%201.er%20sprint.xlsx)
+
+---
+
+## Proyecto Sprint 4
+
+Diseño, ejecución y documentación de casos de prueba funcionales.
+
+📄 Evidencia:
+[Ver matriz Sprint 4](Proyecto%20para%20el%204.º%20Sprint_%20Ejercicio.xlsx)
 ## Proyecto 1 - Pruebas API con Postman
+
 
 Diseño y ejecución de casos de prueba para APIs REST.
 

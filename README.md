@@ -19,7 +19,7 @@ Me encuentro fortaleciendo conocimientos en:
 
 Correo: kenty2008@gmail.com
 
-LinkedIn: tu enlace
+LinkedIn: [tu enlace](https://www.linkedin.com/in/alexandra-mu%C3%B1oz-738ba6b1/)
 
 ### Proyectos
 ## Proyecto Sprint 1
@@ -59,3 +59,4 @@ Validación de reglas de negocio y pruebas funcionales.
 
 - Postman
 - Excel
+- Api Docs
